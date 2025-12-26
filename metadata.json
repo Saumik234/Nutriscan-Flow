@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI",
+  "description": "An intelligent dietary supplement guide that uses AI to analyze products via camera, provides scientific reviews, and offers personalized health consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
